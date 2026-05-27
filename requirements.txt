@@ -1,0 +1,10 @@
+numpy
+pandas
+librosa
+praat-parselmouth
+scipy
+tqdm
+joblib
+scikit-learn
+seaborn
+matplotlib
